@@ -1,0 +1,11 @@
+#div1 {
+  background-color: var(--primary-bg-color);
+  color: var(--primary-txt-color);
+  padding: var(--primary-padding);
+}
+
+#div2 {
+  background-color: var(--secondary-bg-color);
+  color: var(--primary-txt-color);
+  padding: var(--secondary-padding);
+}
